@@ -1,0 +1,138 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+.nav-items {
+  display: flex;
+  align-items: center;
+  width: 500px;
+  justify-content: space-around;
+  margin: 0px 200px;
+  font-size: 35px;
+  font-family: "Poppins ";
+}
+#col {
+  color: #fe5e35;
+}
+.nav {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.intro-section {
+  display: flex;
+  font-family: "Poppins";
+  justify-content: center;
+  align-items: center;
+}
+.left-section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  height: 100vh;
+  width: 90vw;
+  margin-left: 20px;
+}
+.np {
+  font-family: "Poppins";
+  font-size: 30px;
+  margin-top: 90px;
+  margin-left: 10px;
+}
+#cir {
+  width: 40px;
+}
+#wh {
+  font-family: "Fredoka One";
+  font-size: 60px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.but {
+  background-color: #fe5e35;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+.sub-headlines {
+  font-family: "Poppins";
+  font-size: 25px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.text {
+  font-family: "Poppins";
+  margin-top: 30px;
+}
+.action-btns {
+  display: flex;
+  margin-top: 20px;
+  font-family: "Poppins ";
+}
+.action-btn {
+  background-color: #fe5e35;
+  border-radius: 30px;
+  padding: 20px 40px;
+  margin-right: 20px;
+  margin-top: 20px;
+  color: white;
+  font-size: 20px;
+}
+
+.right-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.headphone-div {
+  display: flex;
+  align-items: center;
+  height: 60vh;
+}
+.discount {
+  position: absolute;
+  width: 150px;
+  left: 830px;
+  top: 450px;
+}
+.discount-content {
+  position: absolute;
+  bottom: 160px;
+  text-align: center;
+  font-family: "Fredoka One";
+  right: 535px;
+  color: white;
+}
+.dots {
+  display: flex;
+  justify-content: space-evenly;
+  width: 300px;
+  margin-right: 150px;
+  margin-top: 10px;
+}
+.dotblack {
+  background-color: yellow;
+  border-radius: 50%;
+  width: 30px;
+  height: 25px;
+}
+.dotyellow {
+  background-color: tomato;
+  border-radius: 50%;
+  width: 30px;
+  height: 25px;
+}
+.dottomato {
+  background-color: black;
+  border-radius: 50%;
+  width: 30px;
+  height: 25px;
+}
+.headphone i {
+  margin-right: 180px;
+  height: 450px;
+}
+#lb {
+  margin-right: 150px;
+}
